@@ -1,0 +1,2 @@
+# streamling-hospital-appointments-with-first-come-first-serve-technique-
+Hospital's FCFS and automated scheduling enhanced efficiency, patient satisfaction, and resource use. Fair appointment allocation reduced delays, improving patient experience. This success underscores tailored algorithms' importance in healthcare, showcasing tech's transformative impact on balancing patient needs and resource allocation.
